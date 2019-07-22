@@ -5,11 +5,13 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="PWPB-Sesi1_Alvaro_Dwi"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RelativeLayout"></activity>
+        <activity android:name=".activity_latihan2"></activity>
+        <activity android:name=".Latihan1" />
+        <activity android:name=".RelativeLayout" />
         <activity android:name=".LinearLayout" />
         <activity android:name=".MainActivity">
             <intent-filter>
